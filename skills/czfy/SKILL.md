@@ -1,10 +1,10 @@
 ---
 name: czfy
-description: >- 
-  'Converts text without accented characters into proper Czech words with
+description: >-
+  Converts text without accented characters into proper Czech words with
   diacritics, without changing any of the sentence structure and tone. Use when
   user asks to "czechify" or "czfy" a text, or when they ask to add
-  diacritics.'
+  diacritics.
 ---
 
 # Czechify skill
@@ -34,4 +34,4 @@ User mentions they want to czfy or czechify their text.
 Many people who write in Czech on computers or mobile devices use an English
 keyboard layout by default. In that case, using accented characters
 (diacritics) takes a lot of time, and people have gotten used to both writing
-and reading czech text without such diacritics.
+and reading Czech text without such diacritics.
