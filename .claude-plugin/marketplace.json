@@ -1,0 +1,20 @@
+{
+  "name": "czechify-skill",
+  "owner": {
+    "name": "David Kouřil"
+  },
+  "metadata": {
+    "description": "Add Czech diacritics to text written without them",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "czechify",
+      "description": "Add Czech diacritics to text written without them",
+      "source": "./",
+      "skills": [
+        "./skills"
+      ]
+    }
+  ]
+}
